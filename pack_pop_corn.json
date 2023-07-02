@@ -1,0 +1,65 @@
+[
+    {
+      "id" : "cmb-1",
+      "nombre": "Combo Explosión Cinematográfica",
+      "descripcion": "Palomitas de maíz gigantes con sabor a aventura y una bebida mágica",
+      "detalle": ["Palomitas de maíz gigantes", "Bebida"],
+      "valor": 2000,
+      "pagina" :1,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+        "id" : "cmb-2",
+      "nombre": "Combo Familia de Película",
+      "descripcion": "Palomitas de maíz gigantes para compartir, dos bebidas medianas y dos chocolates llenos de emoción",
+      "detalle": ["Palomitas de maíz gigantes", "2 Bebidas medianas", "2 Chocolates"],
+      "valor": 3500,
+      "pagina" :1,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+      "id" : "cmb-3",
+      "nombre": "Combo Dulce Tentación",
+      "descripcion": "Chocolates mágicos y una bebida gigante que te transportará a otro mundo",
+      "detalle": ["Chocolates", "Bebida gigante"],
+      "valor": 1800,
+      "pagina" : 2,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+      "id" : "cmb-4",
+      "nombre": "Combo Salado Sorprendente",
+      "descripcion": "Papas fritas gigantes llenas de sabor y una bebida mediana con un toque de intriga",
+      "detalle": ["Papas fritas gigantes", "Bebida mediana"],
+      "valor": 2200,
+      "pagina" : 2,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+      "id" : "cmb-5",
+      "nombre": "Combo Premium Épico",
+      "descripcion": "Palomitas de maíz jumbo en una experiencia cinematográfica épica, dos bebidas gigantes, chocolates mágicos y nachos llenos de diversión",
+      "detalle": ["Palomitas de maíz jumbo", "2 Bebidas gigantes", "Chocolates", "Nachos"],
+      "valor": 5000,
+      "pagina":3,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+      "id" : "cmb-6",
+      "nombre": "Combo Infantil Aventurero",
+      "descripcion": "Palomitas de maíz pequeñas con sabor a risas, una bebida pequeña llena de alegría y un juguete sorpresa",
+      "detalle": ["Palomitas de maíz pequeñas", "Bebida pequeña", "Juguete sorpresa"],
+      "valor": 1500,
+      "pagina":3,
+      "url" : "./images/combos/c1.webp"
+    },
+    {
+      "id" : "cmb-7",
+      "nombre": "Combo Especial Sorprendente",
+      "descripcion": "Papas fritas medianas con un toque de magia, una bebida gigante llena de sorpresas y un delicioso helado para endulzar la experiencia",
+      "detalle": ["Papas fritas medianas", "Bebida gigante", "Helado"],
+      "valor": 2800,
+      "pagina":4,
+      "url" : "./images/combos/c1.webp"
+    }
+  ]

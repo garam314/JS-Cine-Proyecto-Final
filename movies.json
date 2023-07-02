@@ -1,0 +1,122 @@
+[
+    {
+      "nombre": "Ant-Man 3: Quantumania",
+      "sinopsis": "Los superhéroes se encuentran atrapados en el reino cuántico, donde conocen a nuevas y extrañas criaturas y luchan contra un nuevo enemigo: Kang, el Conquistador.",
+      "categoria": "acción",
+      "url" : "./images/cartelera/am3qm.webp",
+      "valor": 3500,
+      "funciones": [
+        "10:00",
+        "13:00",
+        "16:00"
+      ]
+    },
+    {
+      "nombre": "Avengers: Endgame",
+      "sinopsis": "Los Vengadores se unen para enfrentar a Thanos y restaurar el equilibrio en el universo después de los eventos de Infinity War.",
+      "categoria": "acción",
+      "url" : "./images/cartelera/avenger-end-game.webp",
+      "valor": 3500,
+      "funciones": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ]
+    },
+    {
+      "nombre": "El Padrino",
+      "sinopsis": "La historia de la familia Corleone y su ascenso al poder en el mundo del crimen organizado durante las décadas de 1940 y 1950.",
+      "categoria": "drama",
+      "url" : "./images/cartelera/goodfather.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ]
+    },
+    {
+      "nombre": "Interestelar",
+      "sinopsis": "Un grupo de exploradores espaciales emprende un viaje interestelar en busca de un nuevo hogar para la humanidad debido a la crisis en la Tierra.",
+      "categoria": "ciencia ficción",
+      "url" : "./images/cartelera/interestelar.webp",
+      "valor": 3500,
+      "funciones": [
+        "10:00",
+        "13:00",
+        "16:00"
+      ]
+    },
+    {
+      "nombre": "La La Land",
+      "sinopsis": "Un pianista de jazz y una aspirante a actriz se enamoran en Los Ángeles mientras persiguen sus sueños en la industria del entretenimiento.",
+      "categoria": "musical",
+      "url" : "./images/cartelera/la-la-land.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "15:00",
+        "18:00"
+      ]
+    },
+    {
+      "nombre": "El Señor de los Anillos: El Retorno del Rey",
+      "sinopsis": "Frodo y Sam continúan su peligroso viaje hacia Mordor para destruir el Anillo Único mientras el ejército de Sauron se prepara para la guerra.",
+      "categoria": "fantasía",
+      "url" : "./images/cartelera/el-señor-de-los-anillos-el-retorno-del-rey.webp",
+      "valor": 3500,
+      "funciones": [
+        "15:00",
+        "19:00"
+      ]
+    },
+    {
+      "nombre": "Pulp Fiction",
+      "sinopsis": "Una colección de historias interconectadas que involucran a personajes peculiares del mundo del crimen, la violencia y el submundo de Los Ángeles.",
+      "categoria": "crimen",
+      "url" : "./images/cartelera/pulp-fiction.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "15:00",
+        "18:00"
+      ]
+    },
+    {
+      "nombre": "Coco",
+      "sinopsis": "Un joven aspirante a músico llamado Miguel se adentra en la Tierra de los Muertos para descubrir la verdad detrás de la prohibición de la música en su familia.",
+      "categoria": "animación",
+      "url" : "./images/cartelera/coco.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "18:00"
+      ]
+    },
+    {
+      "nombre": "Titanic",
+      "sinopsis": "La historia de amor entre Jack y Rose se desarrolla a bordo del lujoso transatlántico Titanic, mientras se enfrentan al trágico destino del barco.",
+      "categoria": "romance",
+      "url" : "./images/cartelera/titanic.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "16:00",
+        "20:00"
+      ]
+    },
+    {
+      "nombre": "El Caballero de la Noche",
+      "sinopsis": "Batman se enfrenta al Joker, un despiadado criminal que aterroriza a Gotham City con sus actos caóticos y violentos.",
+      "categoria": "acción",
+      "url" : "./images/cartelera/el-caballero-de-la-noche.webp",
+      "valor": 3500,
+      "funciones": [
+        "12:00",
+        "15:00",
+        "18:00"
+      ]
+    }
+  ]

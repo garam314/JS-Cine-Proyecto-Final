@@ -1,0 +1,115 @@
+.bg_1
+{
+    background-color: red;
+}
+
+.bg_2
+{
+    background-color: blueviolet;
+}
+.bg_3
+{
+    background-color: yellowgreen;
+}
+.bg_4
+{
+    background-color: green;
+}
+
+body
+{
+    font-family: 'Rubik', sans-serif;
+}
+
+.title_font
+{
+    font-family: 'Phudu', cursive;
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+}
+
+.title_reserve
+{
+    font-family: 'Phudu', cursive;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+
+.font_information
+{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.header_bg
+{
+    background-color: rgb(105, 0, 0);
+    height: 4lh;
+}
+
+.bg_movie1
+{
+    background-color: rgba(170, 170, 170, 0.527);
+}
+
+.bg_movie2
+{
+    background-color: rgba(66, 66, 66, 0.527);
+}
+
+.bg_standar
+{
+    background-color: rgb(64, 1, 1);
+}
+
+.bg_standar2
+{
+    background-color: rgb(105, 0, 0);
+}
+
+.header_seats
+{
+    width: 40px;
+    height: 100%;
+}
+
+.font_seats
+{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+}
+.font_seats:hover
+{
+    font-weight: bolder;
+}
+.bg_seat_icon
+{
+    background-image: url("./images/icons/seat.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+    width: 40px;
+
+}
+
+.bg_seat_selected_icon
+{
+    background-image: url("./images/icons/seat_selected.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+    width: 40px;
+}
+
+.detach
+{
+    transition: width 0.3s, height 0.3s;
+}
+
+.detach:hover
+{
+    background-image: url("./images/icons/seat_selected.png");
+}
