@@ -92,7 +92,7 @@ export function f_timer()
     }
     else
     {
-        timer = 10
+        timer = 300 //TIEMPO DE SESION
 
         Swal.fire(
             'Atención',
