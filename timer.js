@@ -53,6 +53,7 @@ export function f_time_out()
             localStorage.removeItem('seatsJSON')
             localStorage.removeItem('movieJSON')
             localStorage.removeItem('packs')
+            timer = 0
             window.location.href = "./index.html"
         }, 2000)
     }

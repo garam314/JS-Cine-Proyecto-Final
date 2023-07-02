@@ -74,7 +74,7 @@ function filter_name()
     movies.forEach(movie=>{
         let movie_mane = movie.getAttribute("name-movie").toLocaleLowerCase()
 
-        bool_name = movie_mane.includes(movie_name_input)
+        let bool_name = movie_mane.includes(movie_name_input)
 
         if (bool_name)
         {
